@@ -1,0 +1,26 @@
+table{
+	background-color: silver;
+}
+center{
+	font-size: 17px;
+}
+body{
+	font-size: small;
+	line-height: 1.6em;
+}
+h1,h2{
+	font-family: sans-serif;
+	color: gray;
+	font-size: 25px;
+}
+h1{
+	border-bottom: 1px solid black;
+}
+p{
+	color: maroon;
+}
+.introduction{
+	border-color: black;
+	border-style: solid;
+	background-color: #a7cece;
+}
